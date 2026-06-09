@@ -1,5 +1,7 @@
 {
     "appService.preDeployTask": "publish-release",
     "appService.deploySubpath": "bin/Release/net7.0/publish",
-    "appService.defaultWebAppToDeploy": ""
+    "appService.defaultWebAppToDeploy": "",
+    "snyk.advanced.organization": "27e5b584-844f-401b-ae5b-f6aa290dc1eb",
+    "snyk.advanced.autoSelectOrganization": true
 }
